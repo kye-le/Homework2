@@ -3,7 +3,7 @@
 #include <vector>
 #include <cmath>
 
-/**
+/***
  * @struct Point
  * @brief Represents a 2D point.
 */
